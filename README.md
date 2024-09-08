@@ -5,6 +5,7 @@ This project, titled "International Shark Attacks", aims to analyze shark attack
 The dataset used in this project comes from publicly available source that documents shark attack incidents worldwide.
 
 **Source**: The following website is the source of our data. [Shark Attack Dataset](https://www.sharkattackfile.net/incidentlog.htm)
+
 **Features:**
   * *Date*: The date the shark attack occurred.
   * *Year*: The year the shark attack occurred.
